@@ -1,0 +1,18 @@
+# FKPP Solver - C++ Project Dependencies
+
+## Compiler & Build Tools
+- C++11 or later
+- CMake 3.10+
+- Make
+
+## Libraries
+- cstlib (for standard library functions)
+- cstdio (for input/output operations)
+- cmath (for mathematical functions)
+- vector (for using std::vector)
+- iostream (for console input/output)
+- fstream (for file input/output)
+- string (for using std::string)
+- sstream (for string stream operations)
+- iomanip (for input/output manipulators)
+- stdexcept (for standard exceptions)

@@ -1,0 +1,4 @@
+/home/anh-dung/my_workspace/physics/fkpp_solver/build/CMakeFiles/fkpp_solver.dir
+/home/anh-dung/my_workspace/physics/fkpp_solver/build/CMakeFiles/test.dir
+/home/anh-dung/my_workspace/physics/fkpp_solver/build/CMakeFiles/edit_cache.dir
+/home/anh-dung/my_workspace/physics/fkpp_solver/build/CMakeFiles/rebuild_cache.dir
