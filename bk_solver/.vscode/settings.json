@@ -1,0 +1,22 @@
+{
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/include",
+        "${workspaceFolder}/src"
+    ],
+    "C_Cpp.default.intelliSenseMode": "linux-gcc-x64",
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.formatting": "disabled",
+    "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "files.exclude": {
+        "build": true,
+        ".git": true
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools",
+        "editor.formatOnSave": true
+    }
+}

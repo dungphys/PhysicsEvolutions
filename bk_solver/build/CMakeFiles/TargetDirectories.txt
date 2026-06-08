@@ -1,0 +1,3 @@
+/home/anh-dung/my_workspace/physics/bk_kl_solver/build/CMakeFiles/bk_kl_solver.dir
+/home/anh-dung/my_workspace/physics/bk_kl_solver/build/CMakeFiles/edit_cache.dir
+/home/anh-dung/my_workspace/physics/bk_kl_solver/build/CMakeFiles/rebuild_cache.dir

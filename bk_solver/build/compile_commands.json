@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/anh-dung/my_workspace/physics/bk_kl_solver/build",
+  "command": "/usr/bin/c++  -I/home/anh-dung/my_workspace/physics/bk_kl_solver/include  -O3 -Wall -Wextra -Wpedantic -std=gnu++11 -o CMakeFiles/bk_kl_solver.dir/src/utils.cpp.o -c /home/anh-dung/my_workspace/physics/bk_kl_solver/src/utils.cpp",
+  "file": "/home/anh-dung/my_workspace/physics/bk_kl_solver/src/utils.cpp",
+  "output": "CMakeFiles/bk_kl_solver.dir/src/utils.cpp.o"
+},
+{
+  "directory": "/home/anh-dung/my_workspace/physics/bk_kl_solver/build",
+  "command": "/usr/bin/c++  -I/home/anh-dung/my_workspace/physics/bk_kl_solver/include  -O3 -Wall -Wextra -Wpedantic -std=gnu++11 -o CMakeFiles/bk_kl_solver.dir/src/init_condition.cpp.o -c /home/anh-dung/my_workspace/physics/bk_kl_solver/src/init_condition.cpp",
+  "file": "/home/anh-dung/my_workspace/physics/bk_kl_solver/src/init_condition.cpp",
+  "output": "CMakeFiles/bk_kl_solver.dir/src/init_condition.cpp.o"
+},
+{
+  "directory": "/home/anh-dung/my_workspace/physics/bk_kl_solver/build",
+  "command": "/usr/bin/c++  -I/home/anh-dung/my_workspace/physics/bk_kl_solver/include  -O3 -Wall -Wextra -Wpedantic -std=gnu++11 -o CMakeFiles/bk_kl_solver.dir/src/interp.cpp.o -c /home/anh-dung/my_workspace/physics/bk_kl_solver/src/interp.cpp",
+  "file": "/home/anh-dung/my_workspace/physics/bk_kl_solver/src/interp.cpp",
+  "output": "CMakeFiles/bk_kl_solver.dir/src/interp.cpp.o"
+},
+{
+  "directory": "/home/anh-dung/my_workspace/physics/bk_kl_solver/build",
+  "command": "/usr/bin/c++  -I/home/anh-dung/my_workspace/physics/bk_kl_solver/include  -O3 -Wall -Wextra -Wpedantic -std=gnu++11 -o CMakeFiles/bk_kl_solver.dir/src/solver.cpp.o -c /home/anh-dung/my_workspace/physics/bk_kl_solver/src/solver.cpp",
+  "file": "/home/anh-dung/my_workspace/physics/bk_kl_solver/src/solver.cpp",
+  "output": "CMakeFiles/bk_kl_solver.dir/src/solver.cpp.o"
+},
+{
+  "directory": "/home/anh-dung/my_workspace/physics/bk_kl_solver/build",
+  "command": "/usr/bin/c++  -I/home/anh-dung/my_workspace/physics/bk_kl_solver/include  -O3 -Wall -Wextra -Wpedantic -std=gnu++11 -o CMakeFiles/bk_kl_solver.dir/src/main.cpp.o -c /home/anh-dung/my_workspace/physics/bk_kl_solver/src/main.cpp",
+  "file": "/home/anh-dung/my_workspace/physics/bk_kl_solver/src/main.cpp",
+  "output": "CMakeFiles/bk_kl_solver.dir/src/main.cpp.o"
+}
+]
