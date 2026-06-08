@@ -80,8 +80,4 @@ fkpp_solver/
 │   ├── interp.h
 │   └── utils.h
 └── bin/
-    ├── grid_t.txt
-    ├── grid_x.txt
-    └── solution_x.xxx.txt
-        ....
 ```
